@@ -26,6 +26,10 @@ SET time_zone = "+00:00";
 -- Table structure for table `Match`
 --
 
+CREATE DATABASE UpToDate;
+
+USE UpToDate;
+
 CREATE TABLE IF NOT EXISTS `Match` (
   `MatchID` int(11) NOT NULL,
   `RestaurantID` int(11) DEFAULT NULL,
