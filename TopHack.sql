@@ -37,6 +37,10 @@ CREATE TABLE IF NOT EXISTS `Categorie` (
 -- Table structure for table `HackArt`
 --
 
+CREATE DATABASE TopHack;
+
+USE TopHack;
+
 CREATE TABLE IF NOT EXISTS `HackArt` (
   `hackID` int(11) NOT NULL,
   `hackCat` varchar(255) DEFAULT NULL,
