@@ -26,6 +26,10 @@ SET time_zone = "+00:00";
 -- Table structure for table `Match`
 --
 
+CREATE DATABASE TopHack;
+
+USE TopHack;
+
 CREATE DATABASE UpToDate;
 
 USE UpToDate;
