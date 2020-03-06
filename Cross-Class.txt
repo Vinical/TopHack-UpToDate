@@ -1,4 +1,4 @@
 Internal IP: cross-class-ip (10.138.0.4) (nic0)
 Port: 3306
-Username:root
-Password:P@ssw0rd1
+Username:User
+Password:GAg3lULJuGrr8G7Z
